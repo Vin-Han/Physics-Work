@@ -1,0 +1,47 @@
+﻿  TutorialGame.cpp
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\Common\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(17,1): warning C4005: “_WINSOCKAPI_”: 宏重定义
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp : message : 参见“_WINSOCKAPI_”的前一个定义
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(449,135): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(449,106): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(449,78): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(456,57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(469,64): warning C4305: “参数”: 从“double”到“float”截断
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(478,64): warning C4305: “参数”: 从“double”到“float”截断
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(496,57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(502,70): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(503,91): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(503,70): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(508,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(514,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(515,90): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(515,69): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(689,40): warning C4305: “参数”: 从“double”到“float”截断
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(690,18): warning C4305: “初始化”: 从“double”到“float”截断
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(719,60): warning C4305: “参数”: 从“double”到“float”截断
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(755,60): warning C4305: “参数”: 从“double”到“float”截断
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(792,60): warning C4305: “参数”: 从“double”到“float”截断
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(835,40): warning C4305: “参数”: 从“double”到“float”截断
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(836,18): warning C4305: “初始化”: 从“double”到“float”截断
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1085,7): warning C4101: “data”: 未引用的局部变量
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1143,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1383,25): warning C4018: “>=”: 有符号/无符号不匹配
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1401,16): warning C4018: “>=”: 有符号/无符号不匹配
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1669,95): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1669,74): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1669,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1669,111): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1688,95): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1688,74): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1688,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1688,111): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1710,96): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1710,74): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1710,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1710,112): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1795,95): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1795,74): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1795,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1795,111): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\CSC8503\GameTech\TutorialGame.cpp(1781): warning C4715: “NCL::CSC8503::TutorialGame::selectUICube”: 不是所有的控件路径都返回值
+  GameTech.vcxproj -> F:\postgraduatecoursework\PhysicsCourseWork-Vin-Newversion\Physics\Win32\Debug\GameTech.exe
